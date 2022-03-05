@@ -4,7 +4,7 @@ List of resources related to [#OpRussia](https://twitter.com/hashtag/OpRussia) a
 
 **Contributing:**
 
-Feel free to create pull requests to add more content and make corrections or create issues to make suggestions, ask questions or report incorrect information.
+Any help is welcome! Feel free to create pull requests to add more content and make corrections or create issues to make suggestions, ask questions or report incorrect information.
 
 **Contents:**
 
@@ -44,7 +44,7 @@ _Links to files and data leaked from Russian organizations._
 
 - [DNPP data](https://anonfiles.com/hbT2aeM2xf/DNPP_Part_1_7z) - Dolgoprudnenskoe Scientific Production Plant breach by ATW/BlueHornet.
 - [Altai State Pedagogical University - Part 1](https://anonfiles.com/ndT4h4Mfxb/Federal_State_Budgetary_Educational_Institution_of_Higher_Education_Altai_State_Pedagogical_University_of_the_Russian_Federation_-_Open_7z) - Breach by ATW/BlueHornet
-- TODO
+- _**TODO**_
 
 **[⬆ back to top](#awesome-oprussia)**
 
@@ -75,6 +75,6 @@ _Links to Discord servers._
 
 _Links to other related things._
 
-- TODO
+- _**TODO**_
 
 **[⬆ back to top](#awesome-oprussia)**
