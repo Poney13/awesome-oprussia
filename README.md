@@ -42,9 +42,37 @@ _Git repositories related to OpRussia._
 
 _Links to files and data leaked from Russian organizations._
 
-- [DNPP data](https://anonfiles.com/hbT2aeM2xf/DNPP_Part_1_7z) - Dolgoprudnenskoe Scientific Production Plant breach by ATW/BlueHornet.
-- [Altai State Pedagogical University - Part 1](https://anonfiles.com/ndT4h4Mfxb/Federal_State_Budgetary_Educational_Institution_of_Higher_Education_Altai_State_Pedagogical_University_of_the_Russian_Federation_-_Open_7z) - Breach by ATW/BlueHornet
-- _**TODO**_
+- ~[Ministry of Transport of Russia](https://cloud.cynthiaai.de/s/9mMWNCj64Z5wE6A) - Russian Space Forces, Ministry of Transport, AIP breached by [@ATW / BlueHornet][@ATW].~
+- ~[Brandquad](https://cloud.cynthiaai.de/s/m2MTZqMSjd7sjwN) - Brandquad, a "AI-Driven Platform for Product Data Management" company breached by [@ATW / BlueHornet][@ATW].~
+- ~[Department of Digital Development and Commiunications of the Administrations](https://cloud.cynthiaai.de/s/8osnSpdHPRnHkDY) - breached by [@ATW / BlueHornet][@ATW].~
+- ~[CHERMET](https://chermet29.ru/) - Data downloaded and wyped by [@ATW / BlueHornet][@ATW].~
+- ~[JuicyScore](https://cloud.cynthiaai.de/s/9tJZ5mpgFoXpWXy) - breached by [@ATW / BlueHornet][@ATW].~
+- ~[Yandex](https://cloud.cynthiaai.de/s/j4p52XxgM7mZQJb) - Yandex's development portal breached by [@ATW / BlueHornet][@ATW].~
+- ~[Tomsk State University](https://cloud.cynthiaai.de/s/2smc3Jd5kctRFAj) - Breached by [@ATW / BlueHornet][@ATW].~
+- ~[Gov. of the Sverdlovsk Region](https://cloud.cynthiaai.de/s/Bqzesza4d8wP89s) - Breached by [@ATW / BlueHornet][@ATW].~
+- ~[Aviatourne & Russian Air](https://cloud.cynthiaai.de/s/mQCzHidRRPAZNsZ) - Breached by [@ATW / BlueHornet][@ATW].~
+- [Belarusian State media - Part 1](https://ipfs.io/ipfs/QmUugLh792jpwrtasWAmhXqyjjajGkw6YdqVfpDPTfu7ok) - Breached by [@ATW / BlueHornet][@ATW].
+- [Belarusian State media - Part 2](https://anonfiles.com/feD1X2Kfx7/Part_2_-_State_media_7z) - Breached by [@ATW / BlueHornet][@ATW].
+- [Russian Railways](https://anonfiles.com/7fQ8Z7K0x9/Russian_Rail_7z) - Breached by [@ATW / BlueHornet][@ATW].
+- [Russian hosting company](https://anonfiles.com/n6P6b1Lax5/Russian_hosting_company_7z) - firstvds.ru breached by [@ATW / BlueHornet][@ATW].
+- [Rosatom](https://anonfiles.com/VaX9b9Lexc/Russian_Power_Vlad_7z) - A nuclear power company created by Vladimir Putin breached by [@ATW / BlueHornet][@ATW].
+- [AMD Russia](https://anonfiles.com/b8WeFbL2xb/AMD_7z) - Breached by [@ATW / BlueHornet][@ATW].
+- [PromEngineering - Part 1](https://anonfiles.com/P9W1F7L6x5/PromEngineering_p1_7z) - Breached by [@ATW / BlueHornet][@ATW].
+- ~[SRCs](https://cloud.cynthiaai.de/s/Xjx3fbEWA7SALXK) - Breached by [@ATW / BlueHornet][@ATW].~
+- [Russian Steel Company](https://anonfiles.com/z1X3FeL2x6/steel_last_7z) - Breached by [@ATW / BlueHornet][@ATW].
+- [ScanEx](https://anonfiles.com/V8eeGdL6xc/Scanex_._ru_7z) - Breached by [@ATW / BlueHornet][@ATW].
+- [Blarusian State Media CTV - Part 4](https://anonfiles.com/Z9j5G9L9x5/Part_4_-_state_media_7z) - Breached by [@ATW / BlueHornet][@ATW].
+- [Chinese Prison System](https://anonfiles.com/v310T2L4x3/Chinese_Prison_System_7z) - Breached by [@ATW / BlueHornet][@ATW].
+- [Gazprom](https://anonfiles.com/F7ddVdL6x7/Gazprom_7z) - Breached by [@ATW / BlueHornet][@ATW].
+- [Magnit](https://anonfiles.com/N3d1V1Lax2/magnit.ru_zip) - Breached by [@ATW / BlueHornet][@ATW].
+- [Delans](https://anonfiles.com/554bV1Lbx5/Delans_zip) - Russian postal company breached by [@ATW / BlueHornet][@ATW].
+- [Russian Gov. car database](https://ufile.io/tyh20vaf) - Leaked by [@ATW / BlueHornet][@ATW].
+- [3K Chinese projects - Part 1](https://anonfiles.com/b3WaY9L7x5/cnsrcs_zip) - Leaked by [@ATW / BlueHornet][@ATW].
+- [Petrol China](https://anonfiles.com/T5q7ZeLcx8/PetroChina-master_zip) - Leaked by [@ATW / BlueHornet][@ATW].
+- [NonOil Petrol](https://anonfiles.com/n1s0ZdLdxa/NonOilReport-master_zip) - Leaked by [@ATW / BlueHornet][@ATW].
+- [DNPP data](https://anonfiles.com/hbT2aeM2xf/DNPP_Part_1_7z) - Dolgoprudnenskoe Scientific Production Plant data leaked by [@ATW / BlueHornet][@ATW].
+- [Altai State Pedagogical University - Part 1](https://anonfiles.com/ndT4h4Mfxb/Federal_State_Budgetary_Educational_Institution_of_Higher_Education_Altai_State_Pedagogical_University_of_the_Russian_Federation_-_Open_7z) - Breach by [@ATW / BlueHornet][@ATW].
+- [Unique Fiber Devices](https://anonfiles.com/fb67j8M2xe/Unique_Fiber_Devices_7z) - Blueprints and schematics of aerials, security gates and walls leaked by [@ATW / BlueHornet][@ATW].
 
 **[⬆ back to top](#awesome-oprussia)**
 
@@ -56,14 +84,15 @@ _Links to social media accounts, groups and blogs._
 
 _Links to Telegram groups._
 
-- [Squad303](https://t.me/squad3o3) - Telegram channel of Squad303.
-- [AgainstTheWest / BlueHornet](https://t.me/ATW2022) - Official Telegram for ATW / BlueHornet activities.
+- [Squad303](https://t.me/squad3o3) - Telegram channel of [@Squad303].
+- [AgainstTheWest / BlueHornet](https://t.me/ATW2022) - Official Telegram for [@ATW / BlueHornet][@ATW] activities.
+- [AgainstTheWest / BlueHornet (Backup)](https://t.me/ATW2022Backup) - Backup Telegram for [@ATW / BlueHornet][@ATW] activities.
 
 ### Discord
 
 _Links to Discord servers._
 
-- [Anonymous](https://discord.gg/thecollective) - \#Anonymous discord by [@LiteMods](https://twitter.com/LiteMods).
+- [Anonymous](https://discord.gg/thecollective) - \#Anonymous discord by [@LiteMods].
 
 ### Blogs
 
@@ -78,3 +107,7 @@ _Links to other related things._
 - _**TODO**_
 
 **[⬆ back to top](#awesome-oprussia)**
+
+[@ATW]: https://twitter.com/_Blue_hornet
+[@Squad303]: https://twitter.com/squad3o3
+[@LiteMods]: https://twitter.com/LiteMods
