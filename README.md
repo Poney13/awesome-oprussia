@@ -91,6 +91,7 @@ _Links to files and data leaked from Russian organizations._
 - [hwcompany.ru](https://t.co/zyaO5dBA7r) - Password: _anonymous_oprussia_2022_ | Breached by [@AnonGh0st].
 - [corbina.ru](https://t.co/2rRAav16Rr) - Password: _anonymous_oprussia_2022_ | Breached by [@AnonGh0st].
 - [Nuclear Safety Institute](https://mega.nz/file/vPARVYYL#DNJ29ObPDn2pfq5FZ0-hzDDeP_f_mJkEPjbZ5FTGTIk) - Leaked by [@NB65].
+- [Russian email addresses](https://pastebin.com/raw/AxHT5u00) - Leaked by [@NB65].
 
 **[⬆ back to top](#awesome-oprussia)**
 
