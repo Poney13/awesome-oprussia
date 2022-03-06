@@ -79,7 +79,17 @@ _Links to files and data leaked from Russian organizations._
 - [Central Huiji Investment](https://anonfiles.com/rbM6n7Mfxf/bank_zip) - Breached by [@ATW / BlueHornet][@ATW].
 - [Sany Heavy Industry Co.](https://anonfiles.com/remaofM9x7/sany_zip) - Breached by [@ATW / BlueHornet][@ATW].
 - [Xiaomi - Part 1](https://anonfiles.com/Jc1do3Max1/Xiaomi_Cloud_rar) - Breached by [@ATW / BlueHornet][@ATW].
-- [Xiaomi - Part 2](https://anonfiles.com/z5N4o5M6x3/xiaomi_rar) - Breached by [@AW / BlueHornet][@ATW].
+- [Xiaomi - Part 2](https://anonfiles.com/z5N4o5M6x3/xiaomi_rar) - Breached by [@ATW / BlueHornet][@ATW].
+- [Belarusian Gov. Database](https://pastebin.com/raw/D62mgG5D) - Breached by [@AnonGh0st].
+- [azovkomeks.ru](https://t.co/LhhmkBqBYE) - Password: _anonymous_oprussia_2022_ | Breached by [@AnonGh0st].
+- [vserver24.ru](https://t.co/Eq9MHjFExU) - Password: _anonymous_oprussia_2022_ | Breached by [@AnonGh0st].
+- [dvpt.ru](https://t.co/Wt5Svd07J3) - Password: _anonymous_oprussia_2022_ | Breached by [@AnonGh0st].
+- [ach.gov.ru](https://t.co/fp9KxM8R4p) - Password: _anonymous_oprussia_2022_ | Breached by [@AnonGh0st].
+- [itmo.ru](https://t.co/aVlXWl1edU) - Password: _anonymous_oprussia_2022_ | Breached by [@AnonGh0st].
+- [vpmt.ru](https://t.co/ibHRc2EWVR) - Password: _anonymous_oprussia_2022_ | Breached by [@AnonGh0st].
+- [pvlt.ru](https://t.co/tqw4luqfT9) - Password: _anonymous_oprussia_2022_ | Breached by [@AnonGh0st].
+- [hwcompany.ru](https://t.co/zyaO5dBA7r) - Password: _anonymous_oprussia_2022_ | Breached by [@AnonGh0st].
+- [corbina.ru](https://t.co/2rRAav16Rr) - Password: _anonymous_oprussia_2022_ | Breached by [@AnonGh0st].
 
 **[⬆ back to top](#awesome-oprussia)**
 
@@ -118,3 +128,4 @@ _Links to other related things._
 [@ATW]: https://twitter.com/_Blue_hornet
 [@Squad303]: https://twitter.com/squad3o3
 [@LiteMods]: https://twitter.com/LiteMods
+[@AnonGh0st]: https://twitter.com/JoanneHuggins6
