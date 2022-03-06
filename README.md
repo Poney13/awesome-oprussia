@@ -73,6 +73,13 @@ _Links to files and data leaked from Russian organizations._
 - [DNPP data](https://anonfiles.com/hbT2aeM2xf/DNPP_Part_1_7z) - Dolgoprudnenskoe Scientific Production Plant data leaked by [@ATW / BlueHornet][@ATW].
 - [Altai State Pedagogical University - Part 1](https://anonfiles.com/ndT4h4Mfxb/Federal_State_Budgetary_Educational_Institution_of_Higher_Education_Altai_State_Pedagogical_University_of_the_Russian_Federation_-_Open_7z) - Breach by [@ATW / BlueHornet][@ATW].
 - [Unique Fiber Devices](https://anonfiles.com/fb67j8M2xe/Unique_Fiber_Devices_7z) - Blueprints and schematics of aerials, security gates and walls leaked by [@ATW / BlueHornet][@ATW].
+- [GNIVTS](https://anonfiles.com/P0x7n9Mdx0/gnivc_zip) - Breached by [@ATW / BlueHornet][@ATW].
+- [Chinese Decard](https://anonfiles.com/P425n2M0xc/decard_zip) - Breached by [@ATW / BlueHornet][@ATW].
+- [taiji.com.cn](https://anonfiles.com/ZdFdn5Mex4/TJ_zip) - Breached by [@ATW / BlueHornet][@ATW].
+- [Central Huiji Investment](https://anonfiles.com/rbM6n7Mfxf/bank_zip) - Breached by [@ATW / BlueHornet][@ATW].
+- [Sany Heavy Industry Co.](https://anonfiles.com/remaofM9x7/sany_zip) - Breached by [@ATW / BlueHornet][@ATW].
+- [Xiaomi - Part 1](https://anonfiles.com/Jc1do3Max1/Xiaomi_Cloud_rar) - Breached by [@ATW / BlueHornet][@ATW].
+- [Xiaomi - Part 2](https://anonfiles.com/z5N4o5M6x3/xiaomi_rar) - Breached by [@AW / BlueHornet][@ATW].
 
 **[⬆ back to top](#awesome-oprussia)**
 
